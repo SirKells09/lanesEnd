@@ -1,0 +1,125 @@
+
+
+body {
+   
+    background: url(img/img869.jpg) no-repeat fixed top center;
+    background-size: cover;
+    font-size: 120%;
+    font-family: 'Marcellus SC';
+    font-size: 35px;
+    
+}
+
+ul{
+    style: none;
+    list-style: none;
+}
+li a{
+    list-style: none;
+    color: seashell;
+    text-decoration-style: none;
+
+}
+
+h1 {
+    text-align-last: left;
+    font-family: 'Cinzel Decorative';
+    font-size: 135px;
+    line-height: 1px;
+    color: white;
+    margin-bottom: .6em;
+}
+h2 {
+    text-align-last: right;
+    font-size: 65px;
+    line-height: 1px;
+}
+.topBar {
+    color:white;
+    float: right;
+    margin-top: -3em;
+	max-width: 300px;
+    padding: 0 ;
+
+}
+nav#topBar {
+    font-size: 25px;
+    text-align: right;
+    list-style: none;
+    display: inline-block;
+    float: right; 
+}
+
+section#sideBar{
+    color:black;
+    line-height: 5em;
+    margin-top: 08em;
+    margin-right: 1em;
+    width: 340px;
+    float: left;
+	position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    /* border: 1px black; */
+    /* border-radius: 1em; */
+    /* background-image: linear-gradient(to left, #000000, #2d2d2d, #565657, #828485, #b1b5b5); */
+
+  
+    
+}
+
+section.whiteBoard {  
+      
+    float: right; 
+    background-color: none;
+    opacity: 80%;
+    margin:5px;
+    padding: none;
+    display: block;
+    box-shadow: none;  
+    line-height: 1px;
+     
+}
+
+section div.panel {
+    text-align: right;
+    float: right;
+    max-width: auto;
+	border: none;
+	padding: auto;
+    margin: 10px;
+    display: block;
+	border-radius: 0em;
+    background-color: none;
+    letter-spacing: -1px;
+    line-height: 1px;
+
+
+    
+}
+
+section div.panel img.filmType {
+    
+    max-width: 520px;
+    max-height: 400px;
+    padding: 0px;
+    border: 5px solid black;
+    margin: 0; 
+    border-radius: 1em;
+    
+   }
+
+
+   footer {
+    float: left;
+    height: 25px;
+    font-size: 25px;
+    font-style: oblique;
+    color: none;
+    width: auto;
+    text-align: left;
+    padding:none ;
+}
+
+   
